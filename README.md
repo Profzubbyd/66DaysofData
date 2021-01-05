@@ -35,4 +35,4 @@ I'm very excited to be a part of this challenge.
 ### Day 2
 - Today I finished the Kaggle Python course: https://www.kaggle.com/learn/python
 - It covered functions, loops, booleans, lists, strings and libraries. It was a really practical course.
-
+![Python Certificate](https://user-images.githubusercontent.com/46527701/103698248-5dfb2080-4fa1-11eb-9a88-9bbb48265906.png)
