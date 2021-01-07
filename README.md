@@ -51,3 +51,17 @@ I'm very excited to be a part of this challenge.
 - I also learnt about scaling and handling big data. GPUs do a good job here because they are faster than CPUs but a lot less RAM.
 - Tools for scaling include Hadoop, Spark, RAPIDS, Dask.
 - I've always been seeing RAPIDS around but today I learnt what it means. Excited about the days ahead.
+
+### Day 4
+- Today I started the Kaggle course Intro to SQL and completed 3 modules with practice exercises.
+- I learnt the full meaning of SQL. Didn't know this before.
+- Also how to access and examine BigQuery Datasets. Learnt about clients, projects, tables, etc
+- Learnt how to write SQL queries with SELECT, FROM, WHERE, GROUP BY, HAVING and COUNT.
+- Learnt that there are datasets as large as 3TB. Wow!!! This is why you need to set a limit on queries you fetch.
+- I saw that it is really with SQL we can really analyse and ask interesting questions about data.
+
+- Also listened to "Becoming a machine learning practitioner" on O'Reilly Data Show Podcast. Was a great listen.
+- A good was to learn ML is through building a project then learning the data science process behind it.
+- The host uses AWS and codes as an Amazon ML developer.
+- I learnt the value of attending lots of technical conferences.
+- I also learnt that ML practitioners also have a reponsibility of educating their managers on ML use-cases since they are at the decison making layer.
