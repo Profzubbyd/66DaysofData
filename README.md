@@ -53,15 +53,11 @@ I'm very excited to be a part of this challenge.
 - I've always been seeing RAPIDS around but today I learnt what it means. Excited about the days ahead.
 
 ### Day 4
-- Today I started the Kaggle course Intro to SQL and completed 3 modules with practice exercises.
-- I learnt the full meaning of SQL. Didn't know this before.
-- Also how to access and examine BigQuery Datasets. Learnt about clients, projects, tables, etc
-- Learnt how to write SQL queries with SELECT, FROM, WHERE, GROUP BY, HAVING and COUNT.
-- Learnt that there are datasets as large as 3TB. Wow!!! This is why you need to set a limit on queries you fetch.
-- I saw that it is really with SQL we can really analyse and ask interesting questions about data.
+- Today I started the Kaggle course Intro to SQL and completed 3 modules with practice exercises. I learnt the full meaning of SQL. Didn't know this before. Also how to access and examine BigQuery Datasets. Learnt about clients, projects, tables, etc. Learnt how to write SQL queries with SELECT, FROM, WHERE, GROUP BY, HAVING and COUNT. Learnt that there are datasets as large as 3TB. Wow!!! This is why you need to set a limit on queries you fetch. I saw that it is really with SQL we can really analyse and ask interesting questions about data.
 
-- Also listened to "Becoming a machine learning practitioner" on O'Reilly Data Show Podcast. Was a great listen.
-- A good was to learn ML is through building a project then learning the data science process behind it.
-- The host uses AWS and codes as an Amazon ML developer.
-- I learnt the value of attending lots of technical conferences.
-- I also learnt that ML practitioners also have a reponsibility of educating their managers on ML use-cases since they are at the decison making layer.
+- Also listened to "Becoming a machine learning practitioner" on O'Reilly Data Show Podcast. Was a great episode. A good was to learn ML is through building a project then learning the data science process behind it. The host uses AWS and codes as an Amazon ML developer. I learnt the value of attending lots of technical conferences. I also learnt that ML practitioners also have a reponsibility of educating their managers on ML use-cases since they are at the decison making layer.
+
+### Day 5
+- Today I completed the Kaggle course: Intro to SQL. Learnt about ORDER BY, AS WITH, CTEs and JOINING tables. I just found myself loving SQL. I realized you can ask so many interesting questions and also make analysis from several datasets (and tables in them). I highly recommend the course.
+- I also listened to "One Hot 2020" on Not So Standard Deviations Podcast. I learnt a lot of use-cases of AI(Artificial Intelligence) and ML(Machine Learning). The hosts Roger Peng and Hilary Parker analysed the differences between AI and ML. To mention one, AI systems come to you as a person and there's always interaction while ML just uses data from your past activities like recommender systems, Google Autofill, etc. It was a fun episode.
+
