@@ -59,5 +59,5 @@ I'm very excited to be a part of this challenge.
 
 ### Day 5
 - Today I completed the Kaggle course: Intro to SQL. Learnt about ORDER BY, AS WITH, CTEs and JOINING tables. I just found myself loving SQL. I realized you can ask so many interesting questions and also make analysis from several datasets (and tables in them). I highly recommend the course.
-- I also listened to "One Hot 2020" on Not So Standard Deviations Podcast. I learnt a lot of use-cases of AI(Artificial Intelligence) and ML(Machine Learning). The hosts Roger Peng and Hilary Parker analysed the differences between AI and ML. To mention one, AI systems come to you as a person and there's always interaction while ML just uses data from your past activities like recommender systems, Google Autofill, etc. It was a fun episode.
-
+- I also listened to "One Hot 2020" on Not So Standard Deviations Podcast. I learnt a lot of use-cases of AI(Artificial Intelligence) and ML(Machine Learning). The hosts Roger Peng and Hilary Parker analysed the differences between AI and ML. To mention one, AI systems come to you as a person and there's always real-time interaction eg self driving cars while ML just uses data from your past activities like recommender systems, Google Autofill, etc. It was a fun episode.
+![Intro to SQL Certificate](https://user-images.githubusercontent.com/46527701/104059810-32bd3f00-51f6-11eb-8941-ce1d8ecd79f5.png)
