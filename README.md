@@ -65,5 +65,5 @@ I'm very excited to be a part of this challenge.
 ### Day 6
 - Today I continued my "Big Data with Python" course being offered by Utiva which I take every weekend. They have a great instructor. I learnt about Pandas today.
 - Specifically, I learnt that pandas is very fundamental for any Data Scientist. 
-- Also learnt about Pandas Series, Dataframes and several things that can be done with them.
+- Also learnt about Pandas Series, Dataframes and several things that can be done with them. A lot of work went into building pandas. There are so many things that can be done with it. It just makes data manipulation easier.
 - I couldn't get enough eartime today on a Data Science related podcast but I'll post on that tomorrow.
