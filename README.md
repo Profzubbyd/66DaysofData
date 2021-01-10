@@ -63,12 +63,12 @@ I'm very excited to be a part of this challenge.
 ![Intro to SQL Certificate](https://user-images.githubusercontent.com/46527701/104059810-32bd3f00-51f6-11eb-8941-ce1d8ecd79f5.png)
 
 ### Day 6
-- Today I continued my "Big Data with Python" course being offered by Utiva which I take every weekend. They have a great instructor. I learnt about Pandas today.
+- Today I continued my "Big Data Analytics with Python - Day 5" course being offered by Utiva which I take every weekend. They have a great instructor. I learnt about Pandas today.
 - Specifically, I learnt that pandas is very fundamental for any Data Scientist. 
 - Also learnt about Pandas Series, Dataframes and several things that can be done with them. A lot of work went into building pandas. There are so many things that can be done with it. It just makes data manipulation easier.
 
 ### Day 7
-- Today I continued my "Big Data with Python" course being offered by Utiva which I take every weekend. We finished up Pandas today. 
+- Today I continued my "Big Data with Python - Day 6" course being offered by Utiva which I take every weekend. We finished up Pandas today. 
 - We explored the Groupby function, it's very similar to that of SQL. We also looked at merging, joining and concatenation.
 - I learnt about visualization. A light intro to the blend of Pandas and matplotlib. Histogram, Bar chart, Scatter, Box & Line plot amongst others.
 - Visualization is a tool every Data Scientist must learn. That's how we tell the data story.
