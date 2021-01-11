@@ -72,3 +72,9 @@ I'm very excited to be a part of this challenge.
 - We explored the Groupby function, it's very similar to that of SQL. We also looked at merging, joining and concatenation.
 - I learnt about visualization. A light intro to the blend of Pandas and matplotlib. Histogram, Bar chart, Scatter, Box & Line plot amongst others.
 - Visualization is a tool every Data Scientist must learn. That's how we tell the data story.
+
+### Day 8
+- Today, I started Kaggle course: Pandas. It gave me hands-on learning of the concepts I got exposed to over the weekend.
+- I learnt about indexing, selecting and assigning in Pandas. I also learnt about Summary functions and mapping in Pandas. 
+Having a Maths background helped me to understand the mapping process better.
+- Something interesting about today's learning experience was the difference between iloc and loc indexing scheme. The fact that iloc uses Python stdlib indexing scheme while loc doesn't. 
