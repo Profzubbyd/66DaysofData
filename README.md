@@ -78,3 +78,10 @@ I'm very excited to be a part of this challenge.
 - I learnt about indexing, selecting and assigning in Pandas. I also learnt about Summary functions and mapping in Pandas. 
 Having a Maths background helped me to understand the mapping process better.
 - Something interesting about today's learning experience was the difference between iloc and loc indexing scheme. The fact that iloc uses Python stdlib indexing scheme while loc doesn't. 
+
+### Day 9
+- Today, I finished the Kaggle course: Pandas. It was a highly practical course.
+- I learnt about Groupby, Multi-indexing, Sorting, Checking and Changing Datatypes, Handling missing values, Renaming and Combining with concat, join and merge.
+I love playing with pandas. The things you can do with it are really a lot.
+- There isn't much to say today as I really got my hands dirty with code.
+![Pandas Certificate](https://user-images.githubusercontent.com/46527701/104376854-e2135200-5525-11eb-9687-ed91f5e42d57.png)
