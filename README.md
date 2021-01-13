@@ -77,7 +77,7 @@ I'm very excited to be a part of this challenge.
 - Today, I started Kaggle course: Pandas. It gave me hands-on learning of the concepts I got exposed to over the weekend.
 - I learnt about indexing, selecting and assigning in Pandas. I also learnt about Summary functions and mapping in Pandas. 
 Having a Maths background helped me to understand the mapping process better.
-- Something interesting about today's learning experience was the difference between iloc and loc indexing scheme. The fact that iloc uses Python stdlib indexing scheme while loc doesn't. 
+- Something interesting about today's learning experience was the difference between iloc and loc indexing scheme. The fact that iloc uses Python stdlib indexing scheme while loc doesn't.
 
 ### Day 9
 - Today, I finished the Kaggle course: Pandas. It was a highly practical course.
@@ -85,3 +85,9 @@ Having a Maths background helped me to understand the mapping process better.
 I love playing with pandas. The things you can do with it are really a lot.
 - There isn't much to say today as I really got my hands dirty with code.
 ![Pandas Certificate](https://user-images.githubusercontent.com/46527701/104376854-e2135200-5525-11eb-9687-ed91f5e42d57.png)
+
+### Day 10
+- Today, I started the Kaggle course: Data Visualization. This was where Kaggle really broke python down. A lot of basic things.
+- I learnt about Seaborn specifically; lineplots, bar charts and heatmaps.
+- There is a whole lot that visualization can reveal. Looking at tables you may just see numbers but with visualization you can do analysis and make decisions.
+Heatmaps especially can give an eagle-eye view over everything. It's really beautiful.
