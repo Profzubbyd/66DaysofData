@@ -35,7 +35,7 @@ I'm very excited to be a part of this challenge.
 ### Day 2
 - Today I finished the Kaggle Python course: https://www.kaggle.com/learn/python
 - It covered functions, loops, booleans, lists, strings and libraries. It was a really practical course.
-![Python Certificate](https://user-images.githubusercontent.com/46527701/103698248-5dfb2080-4fa1-11eb-9a88-9bbb48265906.png)
+![Python Certificate](https://user-images.githubusercontent.com/46527701/103698248-5dfb2080-4fa1-11eb-9a88-9bbb48265906.png| width=100)
 
 ### Day 3
 - Learnt about Data Ethics and Scaling Machine Learning today from the Data Science from Home Podcast. Good episodes
@@ -60,7 +60,7 @@ I'm very excited to be a part of this challenge.
 ### Day 5
 - Today I completed the Kaggle course: Intro to SQL. Learnt about ORDER BY, AS WITH, CTEs and JOINING tables. I just found myself loving SQL. I realized you can ask so many interesting questions and also make analysis from several datasets (and tables in them). I highly recommend the course.
 - I also listened to "One Hot 2020" on Not So Standard Deviations Podcast. I learnt a lot of use-cases of AI(Artificial Intelligence) and ML(Machine Learning). The hosts Roger Peng and Hilary Parker analysed the differences between AI and ML. To mention one, AI systems come to you as a person and there's always real-time interaction eg self driving cars while ML just uses data from your past activities like recommender systems, Google Autofill, etc. It was a fun episode.
-![Intro to SQL Certificate](https://user-images.githubusercontent.com/46527701/104059810-32bd3f00-51f6-11eb-8941-ce1d8ecd79f5.png)
+![Intro to SQL Certificate](https://user-images.githubusercontent.com/46527701/104059810-32bd3f00-51f6-11eb-8941-ce1d8ecd79f5.png =250x250)
 
 ### Day 6
 - Today I continued my "Big Data Analytics with Python - Day 5" course being offered by Utiva which I take every weekend. They have a great instructor. I learnt about Pandas today.
@@ -99,3 +99,5 @@ Heatmaps especially can give an eagle-eye view over everything. It's really beau
 2. The number of jobs per year is positively correlated with the population size of the city. So bigger cities have more jobs in United kingdom? Was shocked to see that.
 Excited about the days ahead.
 ![Data Visualization Certificate](https://user-images.githubusercontent.com/46527701/104647844-ba9dc000-56b2-11eb-8b53-aaf23dfbc1ee.png)
+![Houses sold vs Crimes - Scatter plot](https://user-images.githubusercontent.com/46527701/104649423-fcc80100-56b4-11eb-8dd7-828468c89b51.png)
+![Jobs vs Population - Scatter plot](https://user-images.githubusercontent.com/46527701/104649429-fdf92e00-56b4-11eb-8bd7-ea524cf6168c.png)
