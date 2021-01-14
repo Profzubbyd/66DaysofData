@@ -99,9 +99,7 @@ Heatmaps especially can give an eagle-eye view over everything. It's really beau
 2. The number of jobs per year is positively correlated with the population size of the city. So bigger cities have more jobs in United kingdom? Was shocked to see that.
 Excited about the days ahead.
 <img src="https://user-images.githubusercontent.com/46527701/104647844-ba9dc000-56b2-11eb-8b53-aaf23dfbc1ee.png" width="700" height="450">
-<img src="https://user-images.githubusercontent.com/46527701/104649423-fcc80100-56b4-11eb-8dd7-828468c89b51.png" width="500" height="500">
-<img src="https://user-images.githubusercontent.com/46527701/104649429-fdf92e00-56b4-11eb-8bd7-ea524cf6168c.png" width="500" height="500">
 
-Solarized dark             |  Solarized Ocean
+Houses Sold vs. Crime Rate             |  Available Jobs vs Population Size
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/46527701/104649423-fcc80100-56b4-11eb-8dd7-828468c89b51.png" width="500" height="500">  |  <img src="https://user-images.githubusercontent.com/46527701/104649429-fdf92e00-56b4-11eb-8bd7-ea524cf6168c.png" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/46527701/104649423-fcc80100-56b4-11eb-8dd7-828468c89b51.png" width="300" height="300">  |  <img src="https://user-images.githubusercontent.com/46527701/104649429-fdf92e00-56b4-11eb-8bd7-ea524cf6168c.png" width="300" height="300">
