@@ -60,7 +60,7 @@ I'm very excited to be a part of this challenge.
 ### Day 5
 - Today I completed the Kaggle course: Intro to SQL. Learnt about ORDER BY, AS WITH, CTEs and JOINING tables. I just found myself loving SQL. I realized you can ask so many interesting questions and also make analysis from several datasets (and tables in them). I highly recommend the course.
 - I also listened to "One Hot 2020" on Not So Standard Deviations Podcast. I learnt a lot of use-cases of AI(Artificial Intelligence) and ML(Machine Learning). The hosts Roger Peng and Hilary Parker analysed the differences between AI and ML. To mention one, AI systems come to you as a person and there's always real-time interaction eg self driving cars while ML just uses data from your past activities like recommender systems, Google Autofill, etc. It was a fun episode.
-![Intro to SQL Certificate](https://user-images.githubusercontent.com/46527701/104059810-32bd3f00-51f6-11eb-8941-ce1d8ecd79f5.png =250x250)
+<img src="https://user-images.githubusercontent.com/46527701/104059810-32bd3f00-51f6-11eb-8941-ce1d8ecd79f5.png" width="700" height="450">
 
 ### Day 6
 - Today I continued my "Big Data Analytics with Python - Day 5" course being offered by Utiva which I take every weekend. They have a great instructor. I learnt about Pandas today.
@@ -84,7 +84,7 @@ Having a Maths background helped me to understand the mapping process better.
 - I learnt about Groupby, Multi-indexing, Sorting, Checking and Changing Datatypes, Handling missing values, Renaming and Combining with concat, join and merge.
 I love playing with pandas. The things you can do with it are really a lot.
 - There isn't much to say today as I really got my hands dirty with code.
-![Pandas Certificate](https://user-images.githubusercontent.com/46527701/104376854-e2135200-5525-11eb-9687-ed91f5e42d57.png)
+<img src="https://user-images.githubusercontent.com/46527701/104376854-e2135200-5525-11eb-9687-ed91f5e42d57.png" width="700" height="450">
 
 ### Day 10
 - Today, I started the Kaggle course: Data Visualization. This was where Kaggle really broke python down. A lot of basic things.
@@ -98,6 +98,6 @@ Heatmaps especially can give an eagle-eye view over everything. It's really beau
 1. Monthly crime rate is positively correlated with the number of houses sold. This is intuitive actually since people won't want to get a house n neighbourhods with high crime rate.
 2. The number of jobs per year is positively correlated with the population size of the city. So bigger cities have more jobs in United kingdom? Was shocked to see that.
 Excited about the days ahead.
-![Data Visualization Certificate](https://user-images.githubusercontent.com/46527701/104647844-ba9dc000-56b2-11eb-8b53-aaf23dfbc1ee.png)
-![Houses sold vs Crimes - Scatter plot](https://user-images.githubusercontent.com/46527701/104649423-fcc80100-56b4-11eb-8dd7-828468c89b51.png)
-![Jobs vs Population - Scatter plot](https://user-images.githubusercontent.com/46527701/104649429-fdf92e00-56b4-11eb-8bd7-ea524cf6168c.png)
+<img src="https://user-images.githubusercontent.com/46527701/104647844-ba9dc000-56b2-11eb-8b53-aaf23dfbc1ee.png" width="700" height="450">
+<img src="https://user-images.githubusercontent.com/46527701/104649423-fcc80100-56b4-11eb-8dd7-828468c89b51.png" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/46527701/104649429-fdf92e00-56b4-11eb-8bd7-ea524cf6168c.png" width="500" height="500">
