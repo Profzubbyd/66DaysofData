@@ -102,4 +102,4 @@ Excited about the days ahead.
 
 Houses Sold vs. Crime Rate             |  Available Jobs vs Population Size
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/46527701/104649423-fcc80100-56b4-11eb-8dd7-828468c89b51.png" width="300" height="300">  |  <img src="https://user-images.githubusercontent.com/46527701/104649429-fdf92e00-56b4-11eb-8bd7-ea524cf6168c.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/46527701/104649423-fcc80100-56b4-11eb-8dd7-828468c89b51.png" width="400" height="400">  |  <img src="https://user-images.githubusercontent.com/46527701/104649429-fdf92e00-56b4-11eb-8bd7-ea524cf6168c.png" width="400" height="400">
