@@ -95,7 +95,7 @@ Heatmaps especially can give an eagle-eye view over everything. It's really beau
 ### Day 11
 - Today, I completed the Kaggle course: Data Visualization. Learnt about Scatter plots, Histogram, Density plots and changing sea born styles.
 - I learnt how to extract and analyse datasets. Specifically, I analysed the [Housing in London dataset](https://www.kaggle.com/justinas/housing-in-london). I found some interesting things from the visualization:
-1. Monthly crime rate is positively correlated with the number of houses sold. This is intuitive actually since people won't want to get a house n neighbourhods with high crime rate.
+1. Monthly crime rate is positively correlated with the number of houses sold. This is intuitive actually since people won't want to get a house in neighbourhoods with high crime rate.
 2. The number of jobs per year is positively correlated with the population size of the city. So bigger cities have more jobs in United kingdom? Was shocked to see that.
 Excited about the days ahead.
 <img src="https://user-images.githubusercontent.com/46527701/104647844-ba9dc000-56b2-11eb-8b53-aaf23dfbc1ee.png" width="700" height="450">
