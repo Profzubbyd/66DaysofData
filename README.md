@@ -103,3 +103,12 @@ Excited about the days ahead.
 Houses Sold vs. Crime Rate             |  Available Jobs vs Population Size
 :-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/46527701/104649423-fcc80100-56b4-11eb-8dd7-828468c89b51.png" width="400" height="400">  |  <img src="https://user-images.githubusercontent.com/46527701/104649429-fdf92e00-56b4-11eb-8bd7-ea524cf6168c.png" width="400" height="400">
+
+### Day 12
+- Today, I learnt about time series analysis with R. I figured that it's good to know Python and R so I'm learning and applying both.
+- There are a lot of things that can be done with time series. Basically, there are 2 purposes of time series:
+1. To model the stochastic (random) mechanism that gives rise to a series of data.
+2. To perdict future occurence of the series based on the previous history.
+
+- I also learnt about the Principle of Parsimony: The simpliest model we can make that gives us all the necessary information required in the experiment is sufficient.
+This means a lot for me as a data scientist so I don't have to worry about all the data I get.
