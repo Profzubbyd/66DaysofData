@@ -112,3 +112,8 @@ Houses Sold vs. Crime Rate             |  Available Jobs vs Population Size
 
 - I also learnt about the Principle of Parsimony: The simpliest model we can make that gives us all the necessary information required in the experiment is sufficient.
 This means a lot for me as a data scientist so I don't have to worry about all the data I get.
+
+### Day 13
+- Today, I continued my "Big Data Analytics with Python - Day 7" course being offered by Utiva which I take every weekend. We learnt about Matplotlib plots.
+- Though I have completed Kaggle's course on Data Visualization during the week, I still learnt a lot from today's class. Learnt about Object oriented plots, during the week I did more of pyplots. 
+- This OOPs give you more control of your plots which I see as a very good feature. You can specify axes dimensions, draw a plot within another without doing subplots. Also, learnt about making adjustments to the plots, changing styles, setting limits, etc. Also handled a dataset and did some comparison among variables using plots.
