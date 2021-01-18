@@ -123,3 +123,9 @@ This means a lot for me as a data scientist so I don't have to worry about all t
 - I learnt about Relational plots, Distribution plots, Categorical plots, Regression plots, Matrix plots, and Multi-plot grids (Facet, Pair and Joint grids)
 - I really like the class because we learn with the API reference of the documentation. Before now I saw documentation as something far but I've now learn thow to use it through practice.
 - I have learnt a lot about Data Visualization (Spending more than 12 hours within 4 days). I'll be switching gears tomorrow.
+
+### Day 15
+- Today, I finished the Kaggle course: Intro to Machine Learning. Learnt how to build and validate a model. I also learnt about overfitting and underfitting. You always have to find that sweet spot.
+- I learnt 2 models from the scikit-learn library: Decision Trees and Random Forests.
+- I also made my first submission in a Kaggle competition today. So happy about this. So much Machine Learning models to build in the future.
+<img src="https://user-images.githubusercontent.com/46527701/104965426-fac8af80-59de-11eb-9113-e6168e55f700.png" width="700" height="450">
