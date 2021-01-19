@@ -129,3 +129,20 @@ This means a lot for me as a data scientist so I don't have to worry about all t
 - I learnt 2 models from the scikit-learn library: Decision Trees and Random Forests.
 - I also made my first submission in a Kaggle competition today. So happy about this. So much Machine Learning models to build in the future.
 <img src="https://user-images.githubusercontent.com/46527701/104965426-fac8af80-59de-11eb-9113-e6168e55f700.png" width="700" height="450">
+
+### Day 16
+- Today, I read the article [All Machine Learning Models Explained in 6 Minutes](https://towardsdatascience.com/all-machine-learning-models-explained-in-6-minutes-9fe30ff6776a)
+- Learnt about various Machine Learning Models. They aren't as much as I thought they'd be but I need to learn them indepth.
+#### A Summary
+Machine Learning models are divided into 2: Supervised and Unsupervised
+- Supervised: Regression (continuous output) and Classification (discrete output)
+- Regression: Linear Regression, Decision Tree, Random Forests and Neural Networks.
+- Classification: Logistic Regression, Support Vector Machines, Naive Bayes, Decision Tree, Random Forests and Neural Networks.
+- Unsupervised: Clustering and Dimensionality Reduction
+- Clustering: k-means clustering, Hierarchical clustering, mean shift clustering and density-based clustering.
+- Dimensionality Reduction: Principal Component Analysis (PCA)
+#### Videos Also Watched For Better Understanding
+[StatQuest: Decision Trees](https://www.youtube.com/watch?v=7VeUPuFGJHk)
+[StatQuest: Random Forests Part 1](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
+[StatQuest: PCA main ideas in only 5 minutes!!!](https://www.youtube.com/watch?v=HMOI_lkzW08)
+[Neural Network In 5 Minutes](https://www.youtube.com/watch?v=bfmFfD2RIcg)
