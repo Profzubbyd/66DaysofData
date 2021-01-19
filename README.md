@@ -142,7 +142,7 @@ Machine Learning models are divided into 2: Supervised and Unsupervised
 - Clustering: k-means clustering, Hierarchical clustering, mean shift clustering and density-based clustering.
 - Dimensionality Reduction: Principal Component Analysis (PCA)
 #### Videos Also Watched For Better Understanding
-[StatQuest: Decision Trees](https://www.youtube.com/watch?v=7VeUPuFGJHk)
-[StatQuest: Random Forests Part 1](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
-[StatQuest: PCA main ideas in only 5 minutes!!!](https://www.youtube.com/watch?v=HMOI_lkzW08)
-[Neural Network In 5 Minutes](https://www.youtube.com/watch?v=bfmFfD2RIcg)
+- [StatQuest: Decision Trees](https://www.youtube.com/watch?v=7VeUPuFGJHk)
+- [StatQuest: Random Forests Part 1](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
+- [StatQuest: PCA main ideas in only 5 minutes!!!](https://www.youtube.com/watch?v=HMOI_lkzW08)
+- [Neural Network In 5 Minutes](https://www.youtube.com/watch?v=bfmFfD2RIcg)
