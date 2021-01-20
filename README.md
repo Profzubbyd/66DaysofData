@@ -146,3 +146,10 @@ Machine Learning models are divided into 2: Supervised and Unsupervised
 - [StatQuest: Random Forests Part 1](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
 - [StatQuest: PCA main ideas in only 5 minutes!!!](https://www.youtube.com/watch?v=HMOI_lkzW08)
 - [Neural Network In 5 Minutes](https://www.youtube.com/watch?v=bfmFfD2RIcg)
+
+### Day 17
+- I took it really easy today. I started the Intermediate Machine Learning course on Kaggle.
+- I learnt about how to handle Missing values and Categorical variables. There are 3 ways to handle each.
+- Missing values: Drop columns with missing values, Impute a statistic value or Add a Bool column to show columns with imputations. I personally don't see the use of the third yet.
+- Categorical variables: Drop the columns involved, Label encoding (Assigning each unique value to a different integer) or One-Hot Encoding (Creating new columns for each categorical value).
+- In life, data is really messy (having lots of missing values) and also having with categorical variables. Knowing how to handle these when building ML models is key.
