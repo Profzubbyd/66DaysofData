@@ -157,5 +157,8 @@ Machine Learning models are divided into 2: Supervised and Unsupervised
 ### Day 18
 - Today, I completed the Kaggle course: Intermediate Machine Learning. There are tools to create better models and I learnt quite a few.
 - Learnt about Pipelines, Cross-validation, XGBoost (Gradient Boosting) and Data Leakage.
-- Pipelines makes your data preprocessing and modeling code organized. Not every data scientuist uses this but I find it really helpful.
+- Pipelines makes your data preprocessing and modeling code organized. Not every data scientist uses this but I find it really helpful.
+- Cross-validation gives a more accurate measure of model quality but only suitable for small datasets.
+- XGBoost uses gradient descent method on the loss function to create a better model. Another ensemble method like Random Forests.
+- Data Leakage: This are sutle errors but with huge consequences on your model. There are two types: Target leakage and Train-test contamination.
 <img src="https://user-images.githubusercontent.com/46527701/105405090-090b0b80-5c2b-11eb-863b-2ea4599f15ff.png" width="700" height="450">
