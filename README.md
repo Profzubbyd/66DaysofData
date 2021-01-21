@@ -153,3 +153,9 @@ Machine Learning models are divided into 2: Supervised and Unsupervised
 - Missing values: Drop columns with missing values, Impute a statistic value or Add a Bool column to show columns with imputations. I personally don't see the use of the third yet.
 - Categorical variables: Drop the columns involved, Label encoding (Assigning each unique value to a different integer) or One-Hot Encoding (Creating new columns for each categorical value).
 - In life, data is really messy (having lots of missing values) and also having with categorical variables. Knowing how to handle these when building ML models is key.
+
+### Day 18
+- Today, I completed the Kaggle course: Intermediate Machine Learning. There are tools to create better models and I learnt quite a few.
+- Learnt about Pipelines, Cross-validation, XGBoost (Gradient Boosting) and Data Leakage.
+- Pipelines makes your data preprocessing and modeling code organized. Not every data scientuist uses this but I find it really helpful.
+<img src="https://user-images.githubusercontent.com/46527701/105405090-090b0b80-5c2b-11eb-863b-2ea4599f15ff.png" width="700" height="450">
