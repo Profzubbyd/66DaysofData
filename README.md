@@ -162,3 +162,12 @@ Machine Learning models are divided into 2: Supervised and Unsupervised
 - XGBoost uses gradient descent method on the loss function to create a better model. Another ensemble method like Random Forests.
 - Data Leakage: This are sutle errors but with huge consequences on your model. There are two types: Target leakage and Train-test contamination.
 <img src="https://user-images.githubusercontent.com/46527701/105405090-090b0b80-5c2b-11eb-863b-2ea4599f15ff.png" width="700" height="450">
+
+### Day 19
+- Today, I took things slow. I watched 2 videos in Ken Jee's Data Science project from scratch Youtube playlist
+- Learnt about the planning process from (https://www.youtube.com/watch?v=MpF9HENQjDo) where I can get ideas through:
+1. Looking at the available data (on Google or Kaggle datasets) and building a project from what you find.
+2. Starting with a problem I want then getting relevant data to solve it.
+- He recommends the latter as being fun but I'll start with the former.
+- Also learnt about the data colection process from (https://www.youtube.com/watch?v=GmW4F6MHqqs)
+- It's advised you create a Github repo for every project and use web scrapers like BeautifulSoup or Selenium to get relevant data.
