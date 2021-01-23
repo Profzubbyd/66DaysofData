@@ -169,5 +169,11 @@ Machine Learning models are divided into 2: Supervised and Unsupervised
 1. Looking at the available data (on Google or Kaggle datasets) and building a project from what you find.
 2. Starting with a problem I want then getting relevant data to solve it.
 - He recommends the latter as being fun but I'll start with the former.
-- Also learnt about the data colection process from (https://www.youtube.com/watch?v=GmW4F6MHqqs)
+- Also learnt about the data collection process from (https://www.youtube.com/watch?v=GmW4F6MHqqs)
 - It's advised you create a Github repo for every project and use web scrapers like BeautifulSoup or Selenium to get relevant data.
+
+### Day 20
+- Today, I continued my "Big Data Analytics with Python - Day 9" course being offered by Utiva which I take every weekend. We handled Machine Learning today. It was a really good introduction to the subject matter.
+- I learnt that there are 4 kinds of Machine Learning as opposed to 2 I learnt earlier: Supervised, Unsupervised, Reinforcement learning and Deep learning. We also learnt about the basic terminologies in ML. We used visualizations to do better analysis on the data before building the model.
+- Going deeper, we did Linear regression and Logistic regression. I learnt about the 4 different assumptions to check for in linear regression models. We also did some Data Cleaning and Feature Engineering.
+- I also did some time series analysis with R. I modeled some named stochastic processes: White Noise Process, Random Walk Process and Moving Average Process. I studied their mean, variance, autocovariance and autocorrelation functions.
