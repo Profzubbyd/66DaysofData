@@ -177,3 +177,8 @@ Machine Learning models are divided into 2: Supervised and Unsupervised
 - I learnt that there are 4 kinds of Machine Learning as opposed to 2 I learnt earlier: Supervised, Unsupervised, Reinforcement learning and Deep learning. We also learnt about the basic terminologies in ML. We used visualizations to do better analysis on the data before building the model.
 - Going deeper, we did Linear regression and Logistic regression. I learnt about the 4 different assumptions to check for in linear regression models. We also did some Data Cleaning and Feature Engineering.
 - I also did some time series analysis with R. I modeled some named stochastic processes: White Noise Process, Random Walk Process and Moving Average Process. I studied their mean, variance, autocovariance and autocorrelation functions.
+
+### Day 21
+- Today, I had the last class of "Big Data Analytics with Python - Day 10" course being offered by Utiva which I take every weekend. We went deeper into Machine Learning today. It's been an amazing journey.
+- I learnt about KNN, Decision Trees, Random Forests and Support Vector Machines (SVM). I fitted models, made predictions and validated the models. I also improved the models using Grid Search. I was getting accuracy of 94%. I also created client data and got a prediction off it from the model I developed.
+- I've been seeing the Machine learning proper to be more fun. Really looking forward to when I'll start doing projects.
