@@ -182,3 +182,9 @@ Machine Learning models are divided into 2: Supervised and Unsupervised
 - Today, I had the last class of "Big Data Analytics with Python - Day 10" course being offered by Utiva which I take every weekend. We went deeper into Machine Learning today. It's been an amazing journey.
 - I learnt about KNN, Decision Trees, Random Forests and Support Vector Machines (SVM). I fitted models, made predictions and validated the models. I also improved the models using Grid Search. I was getting accuracy of 94%. I also created client data and got a prediction off it from the model I developed.
 - I've been seeing the Machine learning proper to be more fun. Really looking forward to when I'll start doing projects.
+
+### Day 22
+- Today, I watched 2 videos in Ken Jee's Data Science Project from Scratch Youtube playlist. It was almost 2 hours.
+- Watched a video on Data Cleaning (https://www.youtube.com/watch?v=fhi4dOhmW-g). The process is really long because data comes really messy. Python can do a whole lot.
+- Also watched a video on Exploratory Data Analysis (https://www.youtube.com/watch?v=QWgg4w1SpJ8). He used Jupyter notebook for this as opposed to Spyder IDE used for the previous steps. Visualizations in Jupyter are really informative.
+- Also learnt from Ken Jee in another video (https://www.youtube.com/watch?v=uic34RTaI-w) that "The One Thing" in Data Science is doing projects. It is the 20% that yields the 80% of the results. I'm focusing more on that when I'm done with this Data Science Project from Scratch Youtube playlist.
