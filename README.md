@@ -188,3 +188,10 @@ Machine Learning models are divided into 2: Supervised and Unsupervised
 - Watched a video on Data Cleaning (https://www.youtube.com/watch?v=fhi4dOhmW-g). The process is really long because data comes really messy. Python can do a whole lot.
 - Also watched a video on Exploratory Data Analysis (https://www.youtube.com/watch?v=QWgg4w1SpJ8). He used Jupyter notebook for this as opposed to Spyder IDE used for the previous steps. Visualizations in Jupyter are really informative.
 - Also learnt from Ken Jee in another video (https://www.youtube.com/watch?v=uic34RTaI-w) that "The One Thing" in Data Science is doing projects. It is the 20% that yields the 80% of the results. I'm focusing more on that when I'm done with this Data Science Project from Scratch Youtube playlist.
+
+### Day 23
+- Today, I watched the last 3 videos of Ken Jee's Data Science Project from Scratch Youtube playlist. I really learnt a lot.
+- Watched a video on Model Building (https://www.youtube.com/watch?v=7O4dpR9QMIM). It was really educative. I learnt that I should build at least 3 models and check for the best using scikit_learn error metrics.
+- Watched a video on Putting the Model into Production (https://www.youtube.com/watch?v=nUOh_lDMHOU). He used Flask API to do this process. This was really strange to me. I also feel this process is optional. Not so sure.
+- Then watched a video on Documenting your Work (https://www.youtube.com/watch?v=agHKuUoMwvY). He used Github for this and I saw the importance in getting a job. Since I'm hopeful about getting a Data Science role soon, I'll prioritize this process.
+- Finally listened to "Analysis Without Data" on the Not So Standard Deviations Podcast. They looked at Data Science from the point of academia and industry. Analyzing the best processes to learn. Great episode.
