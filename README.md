@@ -195,3 +195,10 @@ Machine Learning models are divided into 2: Supervised and Unsupervised
 - Watched a video on Putting the Model into Production (https://www.youtube.com/watch?v=nUOh_lDMHOU). He used Flask API to do this process. This was really strange to me. I also feel this process is optional. Not so sure.
 - Then watched a video on Documenting your Work (https://www.youtube.com/watch?v=agHKuUoMwvY). He used Github for this and I saw the importance in getting a job. Since I'm hopeful about getting a Data Science role soon, I'll prioritize this process.
 - Finally listened to "Analysis Without Data" on the Not So Standard Deviations Podcast. They looked at Data Science from the point of academia and industry. Analyzing the best processes to learn. Great episode.
+
+### Day 24
+Really hectic day. Watched 3 videos on getting a data science job
+- Python Programmer: https://youtu.be/X_N3zIIJyAk
+- Joma Tech: https://youtu.be/MfP-P8EHGBo
+- Ken Jee: https://youtu.be/UpaEjBOMNqs
+- So much emphasis on doing internship first. Really didn't think I'd have to go through that route but I'm now having a rethink.
