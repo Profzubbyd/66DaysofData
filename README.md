@@ -202,3 +202,11 @@ Really hectic day. Watched 3 videos on getting a data science job
 - Joma Tech: https://youtu.be/MfP-P8EHGBo
 - Ken Jee: https://youtu.be/UpaEjBOMNqs
 - So much emphasis on doing internship first. Really didn't think I'd have to go through that route but I'm now having a rethink.
+
+### Day 25
+- Today, I started the Kaggle course: Data Cleaning. It's a really necessary course for Data Scientists.
+- I learnt how to handle missing values. it's good to drop sometimes while sometimes it's a wrong decision. You could also fill them through some other means. It's necessary to understand your data before making these decisions.
+- Also learnt the difference between scaling (changing the range of the data) and normalization (changing the distribution of the data to a normal distribution). These are really necessary for some ML models like Support Vector Machines, Guassian Naive Bayes, amongst others
+- Really grateful to Ken Jee and the #66DaysOfData community for the NVIDIA Deep Learning Institute free credits I got today. I don't take it for granted. I'll be sharing my progress on that platform over here too.
+- I believe many more of these will come in the nearest future.
+- I'm having a program this week so I'm not pushing my learning as hard as I did previously. That should change by next week.
