@@ -209,4 +209,10 @@ Really hectic day. Watched 3 videos on getting a data science job
 - Also learnt the difference between scaling (changing the range of the data) and normalization (changing the distribution of the data to a normal distribution). These are really necessary for some ML models like Support Vector Machines, Guassian Naive Bayes, amongst others
 - Really grateful to Ken Jee and the #66DaysOfData community for the NVIDIA Deep Learning Institute free credits I got today. I don't take it for granted. I'll be sharing my progress on that platform over here too.
 - I believe many more of these will come in the nearest future.
-- I'm having a program this week so I'm not pushing my learning as hard as I did previously. That should change by next week.
+- I'm having an event this week so I'm not pushing my learning as hard as I did previously. That should change by next week.
+
+### Day 26
+- Making a late post because it was a really busy day.
+- Today, I switched to R and learnt some things about data mining.
+- Learnt about Data partitioning, various prediction accuracy measures, cross validation and leave one out kind of cross-validation.
+- Practiced them on R
