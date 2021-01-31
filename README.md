@@ -216,3 +216,12 @@ Really hectic day. Watched 3 videos on getting a data science job
 - Today, I switched to R and learnt some things about data mining.
 - Learnt about Data partitioning, various prediction accuracy measures, cross validation and leave one out kind of cross-validation.
 - Practiced them on R
+
+### Day 27
+- Learnt more about building Machine Learning Pipelines today. I previously did a kaggle course on it but I decided to study further. This article is good: https://www.analyticsvidhya.com/blog/2020/01/build-your-first-machine-learning-pipeline-using-scikit-learn/ 
+- I strongly recommend. 
+
+### Day 28
+- Today, I continued my Kaggle course on Data Cleaning.
+- Learnt about parsing dates today. Python could see columns containing dates as objects. It's important to change them and also visualize during the data cleaning process.
+- Having several date formats within the unparsed column could be a challenge but pandas has a way out though it takes time to do.
