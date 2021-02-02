@@ -231,3 +231,8 @@ Really hectic day. Watched 3 videos on getting a data science job
 - Character encoding are the rules that guide the mapping from binary byte strings to readable text. The default encoding for Python codes is UTF-8. But some documents/datasets aren't encoded in it. This is a useful tool to have in one's arsenal. It may not be used often but it's good to be ready whenver encountered.
 - Data mostly comes messy (Proof from how you handle questionaires and surveys). Some preprocessing does the trick but sometimes the fuzzywuzzy package is needed. I personally find the name funny but it gets the job done most times.
 <img src="https://user-images.githubusercontent.com/46527701/106518712-962b4b80-64da-11eb-96ef-d78a2e8ab4b3.png" width="700" height="450">
+
+### Day 30
+- Today, I studied stationary stochastic processes using R.
+- Stationarity happens when the mean, variance and auto covariance functions are all independent of time. Working with stationary processes helps a lot as it makes the model prediction process much easier.
+- I also explored some white noise process, moving average process and random walk processes to check their behaviour and if they are stationary. 
