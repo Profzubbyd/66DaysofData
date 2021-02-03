@@ -236,3 +236,8 @@ Really hectic day. Watched 3 videos on getting a data science job
 - Today, I studied stationary stochastic processes using R.
 - Stationarity happens when the mean, variance and auto covariance functions are all independent of time. Working with stationary processes helps a lot as it makes the model prediction process much easier.
 - I also explored some white noise process, moving average process and random walk processes to check their behaviour and if they are stationary. 
+
+### Day 31
+- Took things slow today. Listened to a Data Skeptic Podcast Episode on "Automatic Summarization". 
+It was a really informative episode. We explored what makes a good summary? Is the data provided sufficient? Are the old methods we use to get text summaries really the best?
+I've found out that Data Science is more about asking the right questions.
