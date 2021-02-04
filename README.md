@@ -241,3 +241,9 @@ Really hectic day. Watched 3 videos on getting a data science job
 - Took things slow today. Listened to a Data Skeptic Podcast Episode on "Automatic Summarization". 
 It was a really informative episode. We explored what makes a good summary? Is the data provided sufficient? Are the old methods we use to get text summaries really the best?
 I've found out that Data Science is more about asking the right questions.
+
+### Day 32
+- Today, I studied polynomial regression in R.
+- Sometimes when you plot a simple linear regression model, it looks curved in a quadratic way or otherwise. This is where ploynomial regression can be really helpful.
+- I also learnt about Lift charts. Very useful in decision making process. It orderly seperates your data into 10 groups and gives some helpful statistics about them. It can show the percentage of your response variable affected by a top grouping in your data.
+
