@@ -251,3 +251,8 @@ I've found out that Data Science is more about asking the right questions.
 - Today, I watched 2 StatQuest videos. Learnt about the Confusion Matrix. The matrix can be really confusing... Lol. 
 The Confusion Matrix contains True Positives, True Negatives, False Positives and False Negatives. 
 I also learnt about calculating Sensitivity and Specificity. Sensitivity is the ratio of the correct positive predictions made while specificity is the ratio of the correct negative predictions made. This concepts are important in ML models.
+
+### Day 34
+- Today, I got my hands busy with a project on controlling Employee Attrition. 
+- Collecting the data in an xlsx format, I imported it and made some observations on it through Visualization. Seaborn really brought clarity on the loopholes the company I'm studying has. I was able to deduct 7 causes of the employee attrition from the plots. Going forward, I'll love to explore current employees who also have tendencies to leave and to provide recommendations for the company.
+- I also watched a YouTube video by Ken Jee (https://www.youtube.com/watch?v=yukdXV9LR48). It was on the kind of Data Science projects that lands a job. Biggest takeaway from the video was to: Prioritize collecting/scraping data, do a good feature engineering and finish every project I start even if I get stuck.
