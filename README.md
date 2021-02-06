@@ -247,3 +247,7 @@ I've found out that Data Science is more about asking the right questions.
 - Sometimes when you plot a simple linear regression model, it looks curved in a quadratic way or otherwise. This is where ploynomial regression can be really helpful.
 - I also learnt about Lift charts. Very useful in decision making process. It orderly seperates your data into 10 groups and gives some helpful statistics about them. It can show the percentage of your response variable affected by a top grouping in your data.
 
+### Day 33
+- Today, I watched 2 StatQuest videos. Learnt about the Confusion Matrix. The matrix can be really confusing... Lol. 
+The Confusion Matrix contains True Positives, True Negatives, False Positives and False Negatives. 
+I also learnt about calculating Sensitivity and Specificity. Sensitivity is the ratio of the correct positive predictions made while specificity is the ratio of the correct negative predictions made. This concepts are important in ML models.
