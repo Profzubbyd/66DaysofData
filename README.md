@@ -256,3 +256,7 @@ I also learnt about calculating Sensitivity and Specificity. Sensitivity is the 
 - Today, I got my hands busy with a project on controlling Employee Attrition. 
 - Collecting the data in an xlsx format, I imported it and made some observations on it through Visualization. Seaborn really brought clarity on the loopholes the company I'm studying has. I was able to deduct 7 causes of the employee attrition from the plots. Going forward, I'll love to explore current employees who also have tendencies to leave and to provide recommendations for the company.
 - I also watched a YouTube video by Ken Jee (https://www.youtube.com/watch?v=yukdXV9LR48). It was on the kind of Data Science projects that lands a job. Biggest takeaway from the video was to: Prioritize collecting/scraping data, do a good feature engineering and finish every project I start even if I get stuck.
+
+### Day 35
+- Today, I continued the project on controlling Employee Attrition.
+- I visualized the current employees data and made 7 recommendations on how to avoid future employee attrition.
