@@ -260,3 +260,9 @@ I also learnt about calculating Sensitivity and Specificity. Sensitivity is the 
 ### Day 35
 - Today, I continued the project on controlling Employee Attrition.
 - I visualized the current employees data and made 7 recommendations on how to avoid future employee attrition.
+
+### Day 36
+Today, I watched 2 StatQuest videos. One on Cross-validation. I got more light on it. I watched another on K Nearest Neighbours. It's a really good classification algorithm. 
+
+### Day 37
+Today, I read this [tweet](https://twitter.com/PrasoonPratham/status/1358351896675819520?s=20) by Prasoon Pratham. It is a beginner's guide on getting started with your first machine learning competition on kaggle. He really broke things down and recommended some YouTube videos to get better understanding of some ML concepts. Read great read/tutorial.
