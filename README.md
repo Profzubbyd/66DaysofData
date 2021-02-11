@@ -266,3 +266,9 @@ Today, I watched 2 StatQuest videos. One on Cross-validation. I got more light o
 
 ### Day 37
 Today, I read this [tweet](https://twitter.com/PrasoonPratham/status/1358351896675819520?s=20) by Prasoon Pratham. It is a beginner's guide on getting started with your first machine learning competition on kaggle. He really broke things down and recommended some YouTube videos to get better understanding of some ML concepts. Read great read/tutorial.
+
+### Day 38
+Today, I read an article on ["How to Identify a Clever Data Scientist"](https://towardsdatascience.com/how-to-identify-a-clever-data-scientist-in-7-minutes-or-less-2593ff53b2aa).  It was a great read. I learnt that Data Scientists need soft skills in addition to technical skills to really stand out. Some soft skills include story telling, really listening and asking the right questions. I need to develop a mixture of both technical and emotional skills.
+
+### Day 39
+Today, I watched Machine Learning Foundations by Google Developers (https://www.youtube.com/watch?v=_Z9TRANg4c0). It was a really insightful video. I learnt the difference between software development and Machine learning. I also got exposure to Tensorflow and Neural Networks. There was a Google colab exercise to solidify the knowledge.
