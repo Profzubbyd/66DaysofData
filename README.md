@@ -272,3 +272,10 @@ Today, I read an article on ["How to Identify a Clever Data Scientist"](https://
 
 ### Day 39
 Today, I watched Machine Learning Foundations by Google Developers (https://www.youtube.com/watch?v=_Z9TRANg4c0). It was a really insightful video. I learnt the difference between software development and Machine learning. I also got exposure to Tensorflow and Neural Networks. There was a Google colab exercise to solidify the knowledge.
+
+### Day 40
+Today, I continued the Machine Learning Foundations by Google Developers (https://youtu.be/j-35y1M9rRU). It was an introduction to computer vision. Great and well broken down video.
+
+### Day 41
+Today, I practiced some exercises on Machine Learning Foundations by Google Developers: Computer vision. Still understanding how the neural network algorithm works.
+Resources: https://goo.gle/34cHkDk
