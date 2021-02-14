@@ -279,3 +279,7 @@ Today, I continued the Machine Learning Foundations by Google Developers (https:
 ### Day 41
 Today, I practiced some exercises on Machine Learning Foundations by Google Developers: Computer vision. Still understanding how the neural network algorithm works.
 Resources: https://goo.gle/34cHkDk
+
+### Day 42
+Today, I still went deeper into understanding Neural Networks. Watched a StatQuest video: https://youtu.be/CqOfi41LfDw 
+The explanation was well broken down.
