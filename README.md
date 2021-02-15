@@ -283,3 +283,6 @@ Resources: https://goo.gle/34cHkDk
 ### Day 42
 Today, I still went deeper into understanding Neural Networks. Watched a StatQuest video: https://youtu.be/CqOfi41LfDw 
 The explanation was well broken down.
+
+### Day 43
+Today, I studied time series in R specifically on modeling deterministic trends. I studied straight line regression, polynomial regression, and seasonal means model all using least squares estimation. I also did some analysis on residuals, checking their normality and independence.
