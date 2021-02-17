@@ -286,3 +286,9 @@ The explanation was well broken down.
 
 ### Day 43
 Today, I studied time series in R specifically on modeling deterministic trends. I studied straight line regression, polynomial regression, and seasonal means model all using least squares estimation. I also did some analysis on residuals, checking their normality and independence.
+
+### Day 44
+Today, I studied variable selection in R. When fitting a model, how many regressors are too much or too little or just right? I explored several stepwise methods for carrying this out. 
+
+### Day 45
+Today, I started a project on studying taxi-out time of airlines and how fuel consumption can be reduced. I focused on scraping the data today. There are so much to learn through doing projects. I have been studying since but project teaches better. Hopeful of the findings I'll make with this. 
