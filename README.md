@@ -292,3 +292,6 @@ Today, I studied variable selection in R. When fitting a model, how many regress
 
 ### Day 45
 Today, I started a project on studying taxi-out time of airlines and how fuel consumption can be reduced. I focused on scraping the data today. There are so much to learn through doing projects. I have been studying since but project teaches better. Hopeful of the findings I'll make with this. 
+
+### Day 46
+Today, I focused on learning web scraping with selenium through some YouTube videos. Yesterday while extracting the data for the project I encountered a bug. So I'd continue with the project tomorrow.
