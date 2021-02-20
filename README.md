@@ -295,3 +295,10 @@ Today, I started a project on studying taxi-out time of airlines and how fuel co
 
 ### Day 46
 Today, I focused on learning web scraping with selenium through some YouTube videos. Yesterday while extracting the data for the project I encountered a bug. So I'd continue with the project tomorrow.
+
+### Day 47
+Today, I learnt about Urllib requests. I combined it with selenium to extract the data required. All this is needed in the project I'm working on now.
+
+### Day 48
+Wow, just 18 days to go. It's been an awesome journey so far.
+- Today, I finalized the Data collection code and I'm currently extracting the data as I type this. It's going to take a while to be fully extracted because the data required for this project is large. 
