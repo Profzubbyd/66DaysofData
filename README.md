@@ -302,3 +302,6 @@ Today, I learnt about Urllib requests. I combined it with selenium to extract th
 ### Day 48
 Wow, just 18 days to go. It's been an awesome journey so far.
 - Today, I finalized the Data collection code and I'm currently extracting the data as I type this. It's going to take a while to be fully extracted because the data required for this project is large. 
+
+### Day 49
+Today, I watched a StatQuest video on Ridge regression. I feel I'll be applying some regularization regression models in this project so I'm getting equipped for it.
