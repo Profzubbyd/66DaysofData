@@ -305,3 +305,6 @@ Wow, just 18 days to go. It's been an awesome journey so far.
 
 ### Day 49
 Today, I watched a StatQuest video on Ridge regression. I feel I'll be applying some regularization regression models in this project so I'm getting equipped for it.
+
+### Day 50
+Today, I watched a StatQuest video on Lasso regression. It's a type of regularization regression models. It is very similar to ridge regression but I find it better because it can eliminate useless variables/parameters in the model. I couldn't do so much today because of my upcoming Exams.
