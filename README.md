@@ -308,3 +308,9 @@ Today, I watched a StatQuest video on Ridge regression. I feel I'll be applying 
 
 ### Day 50
 Today, I watched a StatQuest video on Lasso regression. It's a type of regularization regression models. It is very similar to ridge regression but I find it better because it can eliminate useless variables/parameters in the model. I couldn't do so much today because of my upcoming Exams.
+
+### Day 51
+Today, I watched a StatQuest video on Gradient descent. 
+
+### Day 52
+Today, I did some Data Cleaning on the extracted data for my project. I handled missing columns, I converted the time columns to datetime dtypes to easier use. Excited about the days ahead.
