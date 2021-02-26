@@ -314,3 +314,6 @@ Today, I watched a StatQuest video on Gradient descent.
 
 ### Day 52
 Today, I did some Data Cleaning on the extracted data for my project. I handled missing columns, I converted the time columns to datetime dtypes to easier use. Excited about the days ahead.
+
+### Day 53
+Today, I watched a StatQuest video on pruning Regression trees using Cost complexity pruning. It helps in the reduction of overfitting of a model by penalizing the trees with larger nodes depending on the value of the tuning parameter chosen.
