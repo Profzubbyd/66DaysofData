@@ -317,3 +317,14 @@ Today, I did some Data Cleaning on the extracted data for my project. I handled 
 
 ### Day 53
 Today, I watched a StatQuest video on pruning Regression trees using Cost complexity pruning. It helps in the reduction of overfitting of a model by penalizing the trees with larger nodes depending on the value of the tuning parameter chosen.
+
+### Day 54
+Knowing I'll soon be transiting from Academia to Data Science, I equipped myself with this article by Dave Dale:
+https://towardsdatascience.com/5-things-academics-need-to-know-when-they-become-data-scientists-591d078e6ef6
+My biggest takeaways are: 
+1. I have to drop that pride that academics have. In the industry, people are more interested in usefulness than smartness. 
+2. The best strategy isn't to apply something new learnt in a paper/research article. This usually involves a lot of time in applying it with no guarantees that it'd work out.
+3. Learn to lean on people. In academia, the focus is usually on one person to publish papers and the likes but industry brings teams of people with diverse strengths to synergise.
+
+### Day 55
+Today, I watched 2 YouTube videos by Data Professor on building DS/ML Web apps with Streamlit. I found the library really easy to use and deploy. It's one thing for a Data scientist to build a useful model and it's another thing for it to be made available to people to also use and benefit from. I took a break on my Taxi-time project because of the Exams I wrote this weekend. Should get back to it soon.
