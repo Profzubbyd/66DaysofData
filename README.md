@@ -328,3 +328,9 @@ My biggest takeaways are:
 
 ### Day 55
 Today, I watched 2 YouTube videos by Data Professor on building DS/ML Web apps with Streamlit. I found the library really easy to use and deploy. It's one thing for a Data scientist to build a useful model and it's another thing for it to be made available to people to also use and benefit from. I took a break on my Taxi-time project because of the Exams I wrote this weekend. Should get back to it soon.
+
+### Day 56
+Today, I reviewed some Statistics from the StatQuest YouTube channel. The guy really teaches so well. Visualized the difference between Ridge and Lasso Regression: https://youtu.be/Xm2C_gTAl8c
+
+### Day 57
+Today, I continued with my project on Taxitime. Did some more data cleaning and EDA. I also tried doing visualizations but the data was really large so I plan on segmenting it and doing the visualizations that way.
