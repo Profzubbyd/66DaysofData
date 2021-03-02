@@ -334,3 +334,6 @@ Today, I reviewed some Statistics from the StatQuest YouTube channel. The guy re
 
 ### Day 57
 Today, I continued with my project on Taxitime. Did some more data cleaning and EDA. I also tried doing visualizations but the data was really large so I plan on segmenting it and doing the visualizations that way.
+
+### Day 58
+Today, I reviewed Time Series data in R in preparation for an Exam I have tomorrow.
