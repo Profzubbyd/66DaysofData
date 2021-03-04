@@ -337,3 +337,20 @@ Today, I continued with my project on Taxitime. Did some more data cleaning and 
 
 ### Day 58
 Today, I reviewed Time Series data in R in preparation for an Exam I have tomorrow.
+
+### Day 59
+Today, I watched a video on Auto ML on StatQuest's channel. I'm really fascinated about how this tool would help Data Scientist and Machine Learning novices and experts produce better models. It also frees up time for Data Scientists to focus more on getting domain knowledge. Here's the link to the video: https://youtu.be/SEwxvjfxxmE
+
+### Day 60
+Today, I did some visualizations on my Taxi-out time project. Let me give some background to it first. 
+
+Taxi-out time is the time between the actual pushback and wheels-off. You can see it as the total amount of time an aircraft spends moving in an airport.
+
+In this project I analyzed flights departing from San Francisco International Airport, CA for 4 airlines: Delta Airlines, United Airlines, American Airlines and Southwest Airlines over a period of 10 months specifically from January to October 2019.
+
+This research is so imporant because an aircraft burns a lot of fuel per minute when taxi-ing. For example, the Boeing 737 burns about 11kg of fuel per minute when taxi-ing.
+From the visualizations, we can see 5 destination airports with the highest amount of taxi-out time from the origin airport for each airline. The question behind this visualization is: Does aircraft activity in the destination airport affect taxi-out time in origin airport? Too many arriving and departing flights could make the aircraft taxi more at the origin airport. We can observe that for Delta Airlines, BOS, LAX and JFK have an average taxi-out time of over 21 minutes (About 231 kg of fuel burnt). For United Airlines, BHM and GSP have an average taxi-out time of over 40 minutes (About 440 kg of fuel burnt). For American Airlines, JFK, LAX, PHL, MIA and CLT have an average taxi-out time of over 21 minutes (About 231 kg of fuel burnt). For Southwest Airlines, STL, LAX, and MKE have an average taxi-out time of over 18 minutes (About 198 kg of fuel burnt).
+![AA_taxi](https://user-images.githubusercontent.com/46527701/110037591-ee09dc00-7d3e-11eb-8813-7f132b4e8903.png)
+![DL_taxi](https://user-images.githubusercontent.com/46527701/110037599-efd39f80-7d3e-11eb-9038-581c8ba5a988.png)
+![UA_taxi](https://user-images.githubusercontent.com/46527701/110037601-f06c3600-7d3e-11eb-8988-bf6a5b1e91db.png)
+![WN_taxi](https://user-images.githubusercontent.com/46527701/110037603-f104cc80-7d3e-11eb-9ad7-02255f286bb3.png)
