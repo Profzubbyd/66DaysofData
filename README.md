@@ -354,3 +354,27 @@ From the visualizations, we can see 5 destination airports with the highest amou
 ![DL_taxi](https://user-images.githubusercontent.com/46527701/110037599-efd39f80-7d3e-11eb-9038-581c8ba5a988.png)
 ![UA_taxi](https://user-images.githubusercontent.com/46527701/110037601-f06c3600-7d3e-11eb-8988-bf6a5b1e91db.png)
 ![WN_taxi](https://user-images.githubusercontent.com/46527701/110037603-f104cc80-7d3e-11eb-9ad7-02255f286bb3.png)
+
+### Day 61
+Today, I dug deeper into K Nearest Neighbours applying it to both Regression and Classification problems. I did this in R. 
+
+The algorithm is really a lazy learner. It doesn't form a model but can be used when you have the data to predict.
+
+### Day 62
+Today, I reviewed some Stats from the StatQuest YouTube channel. Saw a video on Support Vector Machines. Really educative: https://youtu.be/efR1C6CvhmE
+
+### Day 63 - 64
+I watched some videos on Data Professor's YouTube channel on Virtual Internships. Watched that of KPMG, Deloitte and General Electric. I'll boost my experience with them soon. 
+Link to the playlist: https://youtube.com/playlist?list=PLtqF5YXg7GLlJjIM8EhbDhMHtSYcPnVvH
+
+### Day 65
+Today, I watched a video on Data Professor's YouTube channel on whether a PhD is required to be a Data Scientist or not. Link to the video here: https://youtu.be/ulRPiEJRyFQ
+
+### Day 66
+Today, I researched on and chose 6 Virtual internships I would do as I transition into the next phase of my learning experience.
+
+So happy to have followed the journey through for the past 66 days. 
+
+It has really been a great learning experience and I have learnt a lot. 
+
+More importantly, I have developed the habit of learning Data Science every day no matter how small.
